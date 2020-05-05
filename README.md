@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=GaKjTjwcKQo
 
 1. github 저장소 만들기 (초기화 관련 옵션은 체크 해제)
 1. <code>git status</code> 로 상태 확인
-1. <code>git add</code> 로 수정사항을 전부 커밋
+1. <code>git add</code>와 <code>git commit</code> 로 수정사항을 전부 커밋
 1. <code>git remote</code> 로 원격 저장소가 등록되어 있는지 확인
 2. github에 나온 명령어를 복붙
 <br><code>remote add [url]</code> -> <code>git push origin master</code>
