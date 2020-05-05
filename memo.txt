@@ -52,7 +52,9 @@
 2) git status 로 상태 확인
 3) git add 로 수정사항을 전부 커밋
 4) git remote 로 원격 저장소가 등록되어 있는지 확인
-5) github에 나온 명령어를 복붙 (원격 저장소명인 origin은 그대로 놔두는게 좋다) : remote add -> git push origin master (origin 저장소의 master 브랜치에 현재 브랜치의 커밋 내용들을 push, 원격 브랜치와 연동됨)
+5) github에 나온 명령어를 복붙 (원격 저장소명인 origin은 그대로 놔두는게 좋다)
+remote add -> git push origin maste
+(origin 저장소의 master 브랜치에 현재 브랜치의 커밋 내용들을 push, 원격 브랜치와 연동됨)
 
 //===============+===============+===============
 
